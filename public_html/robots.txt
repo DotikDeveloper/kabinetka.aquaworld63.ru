@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: https://kabinetka.aquaworld63.ru
+Sitemap: https://kabinetka.aquaworld63.ru/sitemap.xml
